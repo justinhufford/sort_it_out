@@ -4,8 +4,8 @@ CONFIG_FILE = "config.json"
 
 # Default settings
 default_settings = {
-    "list_length": 10,
-    "random_number_upper_limit": 100,
+    "list_length": 20,
+    "random_number_upper_limit": 1000,
     "enable_animation": True
 }
 
